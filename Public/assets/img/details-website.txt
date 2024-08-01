@@ -1,0 +1,26 @@
+	warna web neubrutalism
+				
+			
+		name  :
+				- G(OUD)
+	    nav menu  :
+				- Home -> Main
+				- About -> Who Us?
+				- Products -> 
+				- Contacts -> Contacts		
+		
+	   font size  :
+				- bebas
+				- the rufly
+	
+	
+	       color  :
+				- 494949
+				- 101010
+		
+		
+				- f7f4cd cream
+				- 058cd7 blue
+				- ffc567 orange
+				- 552cb7 purple
+	
